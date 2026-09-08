@@ -39,7 +39,7 @@
                            "preview":  "https://www.dropbox.com/s/n1kr1kc7ead7ums/kawaii_28_1.webp?dl=0, https://www.dropbox.com/s/ds0d788y23h2nre/kawaii_28_2.webp?dl=0, https://www.dropbox.com/s/jy3m2id1n4l4fvi/kawaii_28_3.webp?dl=0",
                            "price":  "premium",
                            "color_text_preview":  "#FFFFFF",
-                           "top_icon_color":  "#FFFFFF",
+                           "top_icon_color":  "#FF922D",
                            "text_123_color":  "#FFFFFF"
                        },
                        {
@@ -53,7 +53,7 @@
                            "preview":  "https://www.dropbox.com/s/7capcyumy9kpasu/kawaii_29_1.webp?dl=0, https://www.dropbox.com/s/8al8ski2bd9rwf6/kawaii_29_2.webp?dl=0, https://www.dropbox.com/s/f26b6bw2no8uzzm/kawaii_29_3.webp?dl=0",
                            "price":  "premium",
                            "color_text_preview":  "#FFFFFF",
-                           "top_icon_color":  "#FFFFFF",
+                           "top_icon_color":  "#FFA6AD",
                            "text_123_color":  "#FFFFFF"
                        },
                        {
@@ -67,7 +67,7 @@
                            "preview":  "https://www.dropbox.com/s/tbiiq1ar57vfbzq/kawaii-15-1.webp?dl=0, https://www.dropbox.com/s/odc6x1rpd7byirf/kawaii-15-2.webp?dl=0, https://www.dropbox.com/s/itkn9rxvzb0e8cz/kawaii-15-3.webp?dl=0",
                            "price":  "premium",
                            "color_text_preview":  "#FFFFFF",
-                           "top_icon_color":  "#FFFFFF",
+                           "top_icon_color":  "#FA5300",
                            "text_123_color":  "#FFFFFF"
                        },
                        {
@@ -81,7 +81,7 @@
                            "preview":  "https://www.dropbox.com/s/6ghel0ajae7qzzk/kawaii-16-1.webp?dl=0, https://www.dropbox.com/s/5osc1pl3hummnb5/kawaii-16-2.webp?dl=0, https://www.dropbox.com/s/5rbdjmmksub3oc0/kawaii-16-3.webp?dl=0",
                            "price":  "premium",
                            "color_text_preview":  "#FFFFFF",
-                           "top_icon_color":  "#FFFFFF",
+                           "top_icon_color":  "#FA5300",
                            "text_123_color":  "#FFFFFF"
                        },
                        {
@@ -123,8 +123,8 @@
                            "preview":  "https://www.dropbox.com/s/22686p4gzlw1l5i/kawaii-19-1.webp?dl=0, https://www.dropbox.com/s/cz2twxz4cu5k7k7/kawaii-19-2.webp?dl=0, https://www.dropbox.com/s/dq54debjtcd2vih/kawaii-19-3.webp?dl=0",
                            "price":  "premium",
                            "color_text_preview":  "#FFFFFF",
-                           "top_icon_color":  "#FFFFFF",
-                           "text_123_color":  "#FFFFFF"
+                           "top_icon_color":  "#BB8681",
+                           "text_123_color":  "#BB8681"
                        },
                        {
                            "id":  11020,
@@ -138,7 +138,7 @@
                            "price":  "premium",
                            "color_text_preview":  "#FFFFFF",
                            "top_icon_color":  "#FFFFFF",
-                           "text_123_color":  "#FFFFFF"
+                           "text_123_color":  "#DE9CA7"
                        },
                        {
                            "id":  11021,
@@ -152,7 +152,7 @@
                            "price":  "premium",
                            "color_text_preview":  "#845EF9",
                            "top_icon_color":  "#845EF9",
-                           "text_123_color":  "#845EF9"
+                           "text_123_color":  "#FFFFFF"
                        },
                        {
                            "id":  11022,
@@ -164,9 +164,9 @@
                            "url":  "https://www.dropbox.com/s/5m2ppd2rydltlih/kawaii_22.zip?dl=0",
                            "preview":  "https://www.dropbox.com/s/4ws0lbgniqst4m2/kawaii-22-1.webp?dl=0, https://www.dropbox.com/s/recjx4a1obxqoq2/kawaii-22-2.webp?dl=0, https://www.dropbox.com/s/of7uelrnv19ou61/kawaii-22-3.webp?dl=0",
                            "price":  "free",
-                           "color_text_preview":  "#845EF9",
-                           "top_icon_color":  "#845EF9",
-                           "text_123_color":  "#845EF9"
+                           "color_text_preview":  "#FFFFFF",
+                           "top_icon_color":  "#FFFFFF",
+                           "text_123_color":  "#FFFFFF"
                        },
                        {
                            "id":  11023,
@@ -178,9 +178,9 @@
                            "url":  "https://www.dropbox.com/s/ofuoqywmiiaq44z/kawaii_23.zip?dl=0",
                            "preview":  "https://www.dropbox.com/s/in7ycpfxurljnth/kawaii-23-1.webp?dl=0, https://www.dropbox.com/s/16rh370x5d8lltu/kawaii-23-2.webp?dl=0, https://www.dropbox.com/s/4elntr04rldlpck/kawaii-23-3.webp?dl=0",
                            "price":  "free",
-                           "color_text_preview":  "#845EF9",
-                           "top_icon_color":  "#845EF9",
-                           "text_123_color":  "#845EF9"
+                           "color_text_preview":  "#EB4B6E",
+                           "top_icon_color":  "#EB4B6E",
+                           "text_123_color":  "#EB4B6E"
                        },
                        {
                            "id":  11024,
@@ -206,9 +206,9 @@
                            "url":  "https://www.dropbox.com/s/7fukc2a7si8rb5z/kawaii_25.zip?dl=0",
                            "preview":  "https://www.dropbox.com/s/hzx9wsvkqmicpt9/kawaii-25-1.webp?dl=0, https://www.dropbox.com/s/wnepnnb25vapyuy/kawaii-25-2.webp?dl=0, https://www.dropbox.com/s/zhehispktv6josu/kawaii-25-3.webp?dl=0",
                            "price":  "premium",
-                           "color_text_preview":  "#845EF9",
-                           "top_icon_color":  "#845EF9",
-                           "text_123_color":  "#845EF9"
+                           "color_text_preview":  "#82726D",
+                           "top_icon_color":  "#82726D",
+                           "text_123_color":  "#FFFFFF"
                        },
                        {
                            "id":  11026,
@@ -261,7 +261,7 @@
                            "url":  "https://www.dropbox.com/s/cvs8d74b6lnk0c1/kawaii_12.zip?dl=0",
                            "preview":  "https://www.dropbox.com/s/by9cpkei9w09agx/kawaii_12_1.webp?dl=0, https://www.dropbox.com/s/skdorqtk5eflchi/kawaii_12_2.webp?dl=0, https://www.dropbox.com/s/niug22mip2ewmf2/kawaii_12_3.webp?dl=0",
                            "price":  "premium",
-                           "top_icon_color":  "#FFFFFF",
+                           "top_icon_color":  "#89BD75",
                            "text_123_color":  "#FFFFFF"
                        },
                        {
@@ -275,7 +275,7 @@
                            "preview":  "https://www.dropbox.com/s/awh7gmhae8rx5zq/kawaii_13_1.webp?dl=0, https://www.dropbox.com/s/b2eejurqmbp9ccu/kawaii_13_2.webp?dl=0, https://www.dropbox.com/s/z2ylsqe6raodb1y/kawaii_13_3.webp?dl=0",
                            "price":  "premium",
                            "dot_text_color":  "#FFFFFF",
-                           "top_icon_color":  "#A97C50",
+                           "top_icon_color":  "#FFFFFF",
                            "text_123_color":  "#A97C50"
                        },
                        {
@@ -302,7 +302,7 @@
                            "url":  "https://www.dropbox.com/s/lonuce0rc7g9wd3/kawaii_1.zip?dl=0",
                            "preview":  "https://www.dropbox.com/s/ps4baidq4dgbzm6/kawaii_1.png?dl=0",
                            "color_text_preview":  "#FF9090",
-                           "top_icon_color":  "#FF9090",
+                           "top_icon_color":  "#FFFFFF",
                            "text_123_color":  "#FF9090"
                        },
                        {
@@ -316,7 +316,7 @@
                            "url":  "https://www.dropbox.com/s/fdurmgoehgwmv1y/kawaii_2.zip?dl=0",
                            "preview":  "https://www.dropbox.com/s/93nj0re52hedics/kawaii_2.png?dl=0",
                            "color_text_preview":  "#FEFFBD",
-                           "top_icon_color":  "#FEFFBD",
+                           "top_icon_color":  "#FF9B9B",
                            "text_123_color":  "#FEFFBD"
                        },
                        {
@@ -330,7 +330,7 @@
                            "url":  "https://www.dropbox.com/s/wx3fjx1c01gd9md/kawaii_3.zip?dl=0",
                            "preview":  "https://www.dropbox.com/s/thu7x75gq8swduo/kawaii_3.png?dl=0",
                            "color_text_preview":  "#FFFFFF",
-                           "top_icon_color":  "#FFFFFF",
+                           "top_icon_color":  "#8A3709",
                            "text_123_color":  "#FFFFFF"
                        },
                        {
@@ -344,8 +344,8 @@
                            "url":  "https://www.dropbox.com/s/6l3ns7uc9zeb3kf/kawaii_4.zip?dl=0",
                            "preview":  "https://www.dropbox.com/s/353ni28jpc6i638/kawaii_4.png?dl=0",
                            "color_text_preview":  "#FFFFFF",
-                           "top_icon_color":  "#FFFFFF",
-                           "text_123_color":  "#FFFFFF"
+                           "top_icon_color":  "#FF6868",
+                           "text_123_color":  "#FF6868"
                        },
                        {
                            "id":  11005,
@@ -358,7 +358,7 @@
                            "url":  "https://www.dropbox.com/s/qs44a3lwiwcfped/kawaii_5.zip?dl=0",
                            "preview":  "https://www.dropbox.com/s/z8i6sbby8zuguyu/kawaii_5.png?dl=0",
                            "color_text_preview":  "#FFFFFF",
-                           "top_icon_color":  "#FFFFFF",
+                           "top_icon_color":  "#096907",
                            "text_123_color":  "#FFFFFF"
                        },
                        {
@@ -372,7 +372,7 @@
                            "url":  "https://www.dropbox.com/s/x6cmhyv6w7mwgm1/kawaii_6.zip?dl=0",
                            "preview":  "https://www.dropbox.com/s/cvq4w77ameor3sq/kawaii_6.png?dl=0",
                            "color_text_preview":  "#FFFFFF",
-                           "top_icon_color":  "#FFFFFF",
+                           "top_icon_color":  "#716EEA",
                            "text_123_color":  "#FFFFFF"
                        },
                        {
@@ -386,7 +386,7 @@
                            "url":  "https://www.dropbox.com/s/c423rnr82bm3dk6/kawaii_7.zip?dl=0",
                            "preview":  "https://www.dropbox.com/s/612c99hhgie20zq/kawaii_7.png?dl=0",
                            "color_text_preview":  "#FFFFFF",
-                           "top_icon_color":  "#FFFFFF",
+                           "top_icon_color":  "#F95316",
                            "text_123_color":  "#FFFFFF"
                        },
                        {
@@ -400,7 +400,7 @@
                            "url":  "https://www.dropbox.com/s/dgiwyw0l8ksgla8/kawaii_8.zip?dl=0",
                            "preview":  "https://www.dropbox.com/s/3jtvs23q1uxzaq2/kawaii_8.png?dl=0",
                            "color_text_preview":  "#FFFFFF",
-                           "top_icon_color":  "#FFFFFF",
+                           "top_icon_color":  "#E49369",
                            "text_123_color":  "#FFFFFF"
                        },
                        {
