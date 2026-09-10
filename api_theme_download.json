@@ -3458,7 +3458,7 @@
                            "price":  "premium",
                            "dot_text_color":  "#FFFFFF",
                            "top_icon_color":  "#7000FF",
-                           "text_123_color":  "#7000FF"
+                           "text_123_color":  "#FFFFFF"
                        },
                        {
                            "id":  22007,
@@ -3472,7 +3472,7 @@
                            "price":  "premium",
                            "dot_text_color":  "#FFFFFF",
                            "top_icon_color":  "#F06363",
-                           "text_123_color":  "#F06363"
+                           "text_123_color":  "#FFFFFF"
                        },
                        {
                            "id":  22008,
@@ -3487,7 +3487,7 @@
                            "dot_text_color":  "#3E5D45",
                            "space_text_color":  "#3E5D45",
                            "top_icon_color":  "#FFFFFF",
-                           "text_123_color":  "#FFFFFF"
+                           "text_123_color":  "#3F5C47"
                        },
                        {
                            "id":  22009,
@@ -3499,7 +3499,7 @@
                            "url":  "https://www.dropbox.com/s/l0900fim5ou7klq/flower_4.zip?dl=0",
                            "preview":  "https://www.dropbox.com/s/z0074pvzjs9o7zf/flower_4_1.webp?dl=0, https://www.dropbox.com/s/groiugx6xdbr1ef/flower_4_2.webp?dl=0,https://www.dropbox.com/s/92v7jzubf8euhcw/flower_4_3.webp?dl=0",
                            "price":  "free",
-                           "top_icon_color":  "#FFFFFF",
+                           "top_icon_color":  "#FB5893",
                            "text_123_color":  "#FFFFFF"
                        },
                        {
@@ -3512,7 +3512,7 @@
                            "url":  "https://www.dropbox.com/s/x5ol7qrx6rw2yq4/flower_5.zip?dl=0",
                            "preview":  "https://www.dropbox.com/s/6qjkltbipbwwgv3/flower_5_1.webp?dl=0, https://www.dropbox.com/s/gq7jrzssb69m5zr/flower_5_2.webp?dl=0, https://www.dropbox.com/s/5zewm0otbcfe7n3/flower_5_3.webp?dl=0",
                            "price":  "premium",
-                           "top_icon_color":  "#FFFFFF",
+                           "top_icon_color":  "#C843F7",
                            "text_123_color":  "#FFFFFF"
                        },
                        {
@@ -3541,7 +3541,7 @@
                            "preview":  "https://www.dropbox.com/s/nzifnpr284q5qvu/flower_rose.png?dl=0",
                            "color_text_preview":  "#FFFFFF",
                            "top_icon_color":  "#FFFFFF",
-                           "text_123_color":  "#FFFFFF"
+                           "text_123_color":  "#CF0504"
                        },
                        {
                            "id":  22002,
@@ -3583,7 +3583,7 @@
                            "preview":  "https://www.dropbox.com/s/xil3pf08rjvfrxk/flower_hydrangeas.png?dl=0",
                            "color_text_preview":  "#3D92E0",
                            "top_icon_color":  "#3D92E0",
-                           "text_123_color":  "#3D92E0"
+                           "text_123_color":  "#FFFFFF"
                        },
                        {
                            "id":  22005,
@@ -3596,8 +3596,8 @@
                            "url":  "https://www.dropbox.com/s/z2krgwfh2wjz6yr/flower_tulips.zip?dl=0",
                            "preview":  "https://www.dropbox.com/s/cmr1cyuuxrvmwdt/flower_tulips.png?dl=0",
                            "color_text_preview":  "#000000",
-                           "top_icon_color":  "#000000",
-                           "text_123_color":  "#000000"
+                           "top_icon_color":  "#FFFFFF",
+                           "text_123_color":  "#FFFFFF"
                        },
                        {
                            "id":  22012,
@@ -3609,9 +3609,9 @@
                            "url":  "https://www.dropbox.com/s/98ql6g8wq3ngar2/flower_12.zip?dl=0",
                            "preview":  "https://www.dropbox.com/s/lqzzaxzq0pueg78/flower_12_1.webp?dl=0, https://www.dropbox.com/s/bztvrw0g2h5payn/flower_12_2.webp?dl=0, https://www.dropbox.com/s/nvm6l59zfctbv3i/flower_12_3.webp?dl=0",
                            "price":  "free",
-                           "color_text_preview":  "#FFBE6B",
-                           "top_icon_color":  "#FFBE6B",
-                           "text_123_color":  "#FFBE6B"
+                           "color_text_preview":  "#FFFFFF",
+                           "top_icon_color":  "#FFFFFF",
+                           "text_123_color":  "#FFFFFF"
                        },
                        {
                            "id":  22013,
@@ -3623,9 +3623,9 @@
                            "url":  "https://www.dropbox.com/s/xoavri76yc3esw3/flower_13.zip?dl=0",
                            "preview":  "https://www.dropbox.com/s/e0x2gws5o8kp87s/flower_13_1.webp?dl=0, https://www.dropbox.com/s/uatq5wrz5xcj4m1/flower_13_2.webp?dl=0, https://www.dropbox.com/s/lb4nf5r9md00doa/flower_13_3.webp?dl=0",
                            "price":  "free",
-                           "color_text_preview":  "#D77F90",
-                           "top_icon_color":  "#D77F90",
-                           "text_123_color":  "#D77F90"
+                           "color_text_preview":  "#FFFFFF",
+                           "top_icon_color":  "#FFFFFF",
+                           "text_123_color":  "#FFFFFF"
                        },
                        {
                            "id":  22014,
@@ -3637,9 +3637,9 @@
                            "url":  "https://www.dropbox.com/s/ioj0brn89kaecj9/flower_14.zip?dl=0",
                            "preview":  "https://www.dropbox.com/s/5qy47232l79rin9/flower_14_1.webp?dl=0, https://www.dropbox.com/s/issr4ejx7godrc3/flower_14_2.webp?dl=0, https://www.dropbox.com/s/whphs19gojali9v/flower_14_3.webp?dl=0",
                            "price":  "free",
-                           "color_text_preview":  "#FFBD0B",
-                           "top_icon_color":  "#FFBD0B",
-                           "text_123_color":  "#FFBD0B"
+                           "color_text_preview":  "#FFFFFF",
+                           "top_icon_color":  "#FFFFFF",
+                           "text_123_color":  "#FFFFFF"
                        },
                        {
                            "id":  22015,
@@ -3651,9 +3651,9 @@
                            "url":  "https://www.dropbox.com/s/jrcph8hxt77siq2/flower_15.zip?dl=0",
                            "preview":  "https://www.dropbox.com/s/b34w09dn7ul0xa3/flower_15_1.webp?dl=0, https://www.dropbox.com/s/hg148fgqosvljz5/flower_15_2.webp?dl=0, https://www.dropbox.com/s/184zonsv2542p8o/flower_15_3.webp?dl=0",
                            "price":  "premium",
-                           "color_text_preview":  "#FFBD0B",
-                           "top_icon_color":  "#FFBD0B",
-                           "text_123_color":  "#FFBD0B"
+                           "color_text_preview":  "#FFFFFF",
+                           "top_icon_color":  "#FFFFFF",
+                           "text_123_color":  "#FFFFFF"
                        },
                        {
                            "id":  22016,
@@ -3665,9 +3665,9 @@
                            "url":  "https://www.dropbox.com/s/8d9d4iw7lhq5dw3/flower_16.zip?dl=0",
                            "preview":  "https://www.dropbox.com/s/ikzowa0sg5i377v/flower_16_1.webp?dl=0, https://www.dropbox.com/s/aq1g6jg2pkpadc8/flower_16_2.webp?dl=0, https://www.dropbox.com/s/2l25sjjo4gbbrbh/flower_16_3.webp?dl=0",
                            "price":  "premium",
-                           "color_text_preview":  "#FF5F64",
-                           "top_icon_color":  "#FF5F64",
-                           "text_123_color":  "#FF5F64"
+                           "color_text_preview":  "#FFFFFF",
+                           "top_icon_color":  "#FFFFFF",
+                           "text_123_color":  "#FFFFFF"
                        }
                    ]
     },
@@ -3699,7 +3699,7 @@
                            "preview":  "https://www.dropbox.com/s/9i0s9fxjfyo25eo/sad_14_1.webp?dl=0, https://www.dropbox.com/s/8mmrih7gkuioc0l/sad_14_2.webp?dl=0, https://www.dropbox.com/s/gz74nognvf9xtvx/sad_14_3.webp?dl=0",
                            "price":  "premium",
                            "color_text_preview":  "#FFFFFF",
-                           "top_icon_color":  "#FFFFFF",
+                           "top_icon_color":  "#444444",
                            "text_123_color":  "#FFFFFF"
                        },
                        {
@@ -3716,8 +3716,8 @@
                            "color_text_preview":  "#294C5F",
                            "space_text_color":  "#294C5F",
                            "dot_text_color":  "#294C5F",
-                           "top_icon_color":  "#294C5F",
-                           "text_123_color":  "#294C5F"
+                           "top_icon_color":  "#FFFFFF",
+                           "text_123_color":  "#FFFFFF"
                        },
                        {
                            "id":  15007,
@@ -3731,8 +3731,8 @@
                            "price":  "premium",
                            "color_text_preview":  "#3A4879",
                            "space_text_color":  "#3A4879",
-                           "top_icon_color":  "#3A4879",
-                           "text_123_color":  "#3A4879"
+                           "top_icon_color":  "#FFFFFF",
+                           "text_123_color":  "#FFFFFF"
                        },
                        {
                            "id":  15008,
@@ -3746,8 +3746,8 @@
                            "price":  "premium",
                            "color_text_preview":  "#414465",
                            "space_text_color":  "#414465",
-                           "top_icon_color":  "#414465",
-                           "text_123_color":  "#414465"
+                           "top_icon_color":  "#FFFFFF",
+                           "text_123_color":  "#FFFFFF"
                        },
                        {
                            "id":  15009,
@@ -3761,25 +3761,25 @@
                            "price":  "premium",
                            "color_text_preview":  "#9A3C50",
                            "space_text_color":  "#9A3C50",
-                           "top_icon_color":  "#9A3C50",
-                           "text_123_color":  "#9A3C50"
+                           "top_icon_color":  "#FFFFFF",
+                           "text_123_color":  "#FFFFFF"
                        },
                        {
                            "id":  15010,
                            "name":  "sad_10",
                            "font":  "AnticSlab-Regular.ttf",
                            "color":  [
-                                         "#00000000",
-                                         "#DC9B63"
+                                         "#7F5D42",
+                                         "#7F5D42"
                                      ],
                            "url":  "https://www.dropbox.com/s/vvqn10wqdhg0npl/sad_10.zip?dl=0",
                            "preview":  "https://www.dropbox.com/s/f2hmt1smrltm7c9/sad-10-1.webp?dl=0, https://www.dropbox.com/s/v2qwng5e9ml7bru/sad-10-2.webp?dl=0, https://www.dropbox.com/s/8bx85mgz37vfaka/sad-10-3.webp?dl=0",
                            "price":  "premium",
-                           "color_text_preview":  "#FFFFFF",
-                           "space_text_color":  "#FFFFFF",
-                           "dot_text_color":  "#DC9B63",
-                           "top_icon_color":  "#FFFFFF",
-                           "text_123_color":  "#FFFFFF"
+                           "color_text_preview":  "#7F5D42",
+                           "space_text_color":  "#7F5D42",
+                           "dot_text_color":  "#7F5D42",
+                           "top_icon_color":  "#7F5D42",
+                           "text_123_color":  "#7F5D42"
                        },
                        {
                            "id":  15011,
@@ -3793,25 +3793,25 @@
                            "price":  "premium",
                            "color_text_preview":  "#3F5962",
                            "space_text_color":  "#3F5962",
-                           "top_icon_color":  "#3F5962",
-                           "text_123_color":  "#3F5962"
+                           "top_icon_color":  "#FFFFFF",
+                           "text_123_color":  "#FFFFFF"
                        },
                        {
                            "id":  15012,
                            "name":  "sad_12",
                            "font":  "chalkboard.ttf",
                            "color":  [
-                                         "#00000000",
+                                         "#FFFFFF",
                                          "#FFFFFF"
                                      ],
                            "url":  "https://www.dropbox.com/s/992sjqzvb64kx3u/sad_12.zip?dl=0",
                            "preview":  "https://www.dropbox.com/s/f9ckx9qp9n9ti84/sad-12-1.webp?dl=0, https://www.dropbox.com/s/ww9fs6e7gj4rutj/sad-12-2.webp?dl=0, https://www.dropbox.com/s/njzmmg8ztd21oae/sad-12-3.webp?dl=0",
                            "price":  "free",
-                           "color_text_preview":  "#2E5B7A",
-                           "space_text_color":  "#2E5B7A",
-                           "dot_text_color":  "#2E5B7A",
-                           "top_icon_color":  "#2E5B7A",
-                           "text_123_color":  "#2E5B7A"
+                           "color_text_preview":  "#FFFFFF",
+                           "space_text_color":  "#FFFFFF",
+                           "dot_text_color":  "#FFFFFF",
+                           "top_icon_color":  "#FFFFFF",
+                           "text_123_color":  "#FFFFFF"
                        },
                        {
                            "id":  15001,
@@ -3825,7 +3825,7 @@
                            "preview":  "https://www.dropbox.com/s/mgdsojflumzuh2c/sad_1.png?dl=0",
                            "color_text_preview":  "#FF0808",
                            "top_icon_color":  "#FF0808",
-                           "text_123_color":  "#FF0808"
+                           "text_123_color":  "#000000"
                        },
                        {
                            "id":  15002,
@@ -3838,8 +3838,8 @@
                            "url":  "https://www.dropbox.com/s/d9j8j1xvvvx33q4/sad_2.zip?dl=0",
                            "preview":  "https://www.dropbox.com/s/ijpg1fbfuwd8nz0/sad_2.png?dl=0",
                            "color_text_preview":  "#FFFFFF",
-                           "top_icon_color":  "#FFFFFF",
-                           "text_123_color":  "#FFFFFF"
+                           "top_icon_color":  "#A32846",
+                           "text_123_color":  "#000000"
                        },
                        {
                            "id":  15003,
@@ -3853,7 +3853,7 @@
                            "preview":  "https://www.dropbox.com/s/i5ay78c7sd0bxcz/sad_3.png?dl=0",
                            "color_text_preview":  "#6B1414",
                            "top_icon_color":  "#6B1414",
-                           "text_123_color":  "#6B1414"
+                           "text_123_color":  "#FFFFFF"
                        },
                        {
                            "id":  15004,
@@ -3867,7 +3867,7 @@
                            "preview":  "https://www.dropbox.com/s/fv6thtgfvxoxh9k/sad_4.png?dl=0",
                            "color_text_preview":  "#CE22B3",
                            "top_icon_color":  "#CE22B3",
-                           "text_123_color":  "#CE22B3"
+                           "text_123_color":  "#291C2B"
                        },
                        {
                            "id":  15005,
@@ -3898,9 +3898,9 @@
                            "url":  "https://www.dropbox.com/s/zxjgo5ff1x66x5t/galaxy_13.zip?dl=0",
                            "preview":  "https://www.dropbox.com/s/1nhahujebatwxdz/galaxy_13_1.webp?dl=0, https://www.dropbox.com/s/6k1t0ki76f4wgyz/galaxy_13_2.webp?dl=0, https://www.dropbox.com/s/65pdsfcrw3l1hbt/galaxy_13_3.webp?dl=0",
                            "price":  "premium",
-                           "color_text_preview":  "#000000",
-                           "top_icon_color":  "#000000",
-                           "text_123_color":  "#000000"
+                           "color_text_preview":  "#ECFF0C",
+                           "top_icon_color":  "#ECFF0C",
+                           "text_123_color":  "#ECFF0C"
                        },
                        {
                            "id":  16014,
@@ -3912,9 +3912,9 @@
                            "url":  "https://www.dropbox.com/s/2g1yw220cgaiefe/galaxy_14.zip?dl=0",
                            "preview":  "https://www.dropbox.com/s/g9x9a5fj6439u0j/galaxy_14_1.webp?dl=0, https://www.dropbox.com/s/073h1ml3jpz6tbq/galaxy_14_2.webp?dl=0, https://www.dropbox.com/s/fjp3jsz2mrpto80/galaxy_14_3.webp?dl=0",
                            "price":  "free",
-                           "color_text_preview":  "#000000",
-                           "top_icon_color":  "#000000",
-                           "text_123_color":  "#000000"
+                           "color_text_preview":  "#0CFFFF",
+                           "top_icon_color":  "#0CFFFF",
+                           "text_123_color":  "#0CFFFF"
                        },
                        {
                            "id":  16015,
@@ -3926,9 +3926,9 @@
                            "url":  "https://www.dropbox.com/s/0c4il7ypcp0u6md/galaxy_15.zip?dl=0",
                            "preview":  "https://www.dropbox.com/s/p4831wkq52igv7p/galaxy_15_1.webp?dl=0, https://www.dropbox.com/s/q72tbx8uitv5v14/galaxy_15_2.webp?dl=0, https://www.dropbox.com/s/u8hk0gzupgk8xxh/galaxy_15_3.webp?dl=0",
                            "price":  "premium",
-                           "color_text_preview":  "#000000",
-                           "top_icon_color":  "#000000",
-                           "text_123_color":  "#000000"
+                           "color_text_preview":  "#FFFFFF",
+                           "top_icon_color":  "#FFFFFF",
+                           "text_123_color":  "#FFFFFF"
                        },
                        {
                            "id":  16016,
@@ -3940,9 +3940,9 @@
                            "url":  "https://www.dropbox.com/s/4gnbgg2papgt0wv/galaxy_16.zip?dl=0",
                            "preview":  "https://www.dropbox.com/s/6m1gij51ha775fi/galaxy_16_1.webp?dl=0, https://www.dropbox.com/s/bsjf00bby3fpldh/galaxy_16_2.webp?dl=0, https://www.dropbox.com/s/2u9gdukhwutnoie/galaxy_16_3.webp?dl=0",
                            "price":  "premium",
-                           "color_text_preview":  "#000000",
-                           "top_icon_color":  "#000000",
-                           "text_123_color":  "#000000"
+                           "color_text_preview":  "#FF1CE8",
+                           "top_icon_color":  "#FF1CE8",
+                           "text_123_color":  "#FF1CE8"
                        },
                        {
                            "id":  16017,
@@ -3972,7 +3972,7 @@
                            "color_text_preview":  "#000000",
                            "dot_text_color":  "#000000",
                            "space_text_color":  "#000000",
-                           "top_icon_color":  "#000000",
+                           "top_icon_color":  "#FF650F",
                            "text_123_color":  "#000000"
                        },
                        {
@@ -3988,7 +3988,7 @@
                            "color_text_preview":  "#000000",
                            "dot_text_color":  "#000000",
                            "space_text_color":  "#000000",
-                           "top_icon_color":  "#000000",
+                           "top_icon_color":  "#31FFFF",
                            "text_123_color":  "#000000"
                        },
                        {
@@ -4004,7 +4004,7 @@
                            "color_text_preview":  "#000000",
                            "dot_text_color":  "#000000",
                            "space_text_color":  "#000000",
-                           "top_icon_color":  "#000000",
+                           "top_icon_color":  "#0074FF",
                            "text_123_color":  "#000000"
                        },
                        {
@@ -4017,7 +4017,7 @@
                            "url":  "https://www.dropbox.com/s/id2017ar7ljagh8/galaxy_7.zip?dl=0",
                            "preview":  "https://www.dropbox.com/s/ht7ommj7kieolj6/galaxy_7_1.webp?dl=0, https://www.dropbox.com/s/04xto39wdwi8uoq/galaxy_7_2.webp?dl=0, https://www.dropbox.com/s/8m7u23zz9hkaxd1/galaxy_7_3.webp?dl=0",
                            "price":  "premium",
-                           "top_icon_color":  "#FFFFFF",
+                           "top_icon_color":  "#09D7F3",
                            "text_123_color":  "#FFFFFF"
                        },
                        {
@@ -4184,7 +4184,7 @@
                            "url":  "https://www.dropbox.com/s/o7konm4fvtb9r0r/lion_7.zip?dl=0",
                            "preview":  "https://www.dropbox.com/s/90lt2g2t5ck7np7/lion_7_1.webp?dl=0, https://www.dropbox.com/s/vj3b49162yzg1c3/lion_7_2.webp?dl=0, https://www.dropbox.com/s/jfs8efpnr7i9khs/lion_7_3.webp?dl=0",
                            "price":  "premium",
-                           "top_icon_color":  "#FFFFFF",
+                           "top_icon_color":  "#0EA0B4",
                            "text_123_color":  "#FFFFFF"
                        },
                        {
@@ -4197,7 +4197,7 @@
                            "url":  "https://www.dropbox.com/s/eh4neb2mxpvrawg/lion_8.zip?dl=0",
                            "preview":  "https://www.dropbox.com/s/4ac9op4yvrluz29/lion_8_1.webp?dl=0, https://www.dropbox.com/s/hk05zfgnv3ihbm5/lion_8_2.webp?dl=0, https://www.dropbox.com/s/n4dgn5p0l5mfnr4/lion_8_3.webp?dl=0",
                            "price":  "premium",
-                           "top_icon_color":  "#FFFFFF",
+                           "top_icon_color":  "#A98A14",
                            "text_123_color":  "#FFFFFF"
                        },
                        {
@@ -4210,7 +4210,7 @@
                            "url":  "https://www.dropbox.com/s/g0oxxc0aqu01uyj/lion_9.zip?dl=0",
                            "preview":  "https://www.dropbox.com/s/2lssctbykzob37u/lion_9_1.webp?dl=0, https://www.dropbox.com/s/i47i0pfs9qwqpqj/lion_9_2.webp?dl=0, https://www.dropbox.com/s/5w0v2whjb2cvk2e/lion_9_3.webp?dl=0",
                            "price":  "free",
-                           "top_icon_color":  "#FFFFFF",
+                           "top_icon_color":  "#A98A14",
                            "text_123_color":  "#FFFFFF"
                        },
                        {
@@ -4223,7 +4223,7 @@
                            "url":  "https://www.dropbox.com/s/5pbo2zzrz67r2ij/lion_10.zip?dl=0",
                            "preview":  "https://www.dropbox.com/s/11unjanpgy8hmrn/lion_10_1.webp?dl=0, https://www.dropbox.com/s/2bd27y135vltz6p/lion_10_2.webp?dl=0, https://www.dropbox.com/s/ttbytkpvropa507/lion_10_3.webp?dl=0",
                            "price":  "premium",
-                           "top_icon_color":  "#FFFFFF",
+                           "top_icon_color":  "#A98A14",
                            "text_123_color":  "#FFFFFF"
                        },
                        {
@@ -4249,7 +4249,7 @@
                            "url":  "https://www.dropbox.com/s/jthr5u5phsx23uc/lion_12.zip?dl=0",
                            "preview":  "https://www.dropbox.com/s/xklwiagd6id2biv/lion_12_1.webp?dl=0, https://www.dropbox.com/s/addlezb7w2ik5t2/lion_12_2.webp?dl=0, https://www.dropbox.com/s/veeiwmsvqqxhnmr/lion_12_3.webp?dl=0",
                            "price":  "premium",
-                           "top_icon_color":  "#FFFFFF",
+                           "top_icon_color":  "#F063BF",
                            "text_123_color":  "#FFFFFF"
                        },
                        {
@@ -4351,7 +4351,7 @@
                            "url":  "https://www.dropbox.com/s/el9knifxxx1y40b/sport_6.zip?dl=0",
                            "preview":  "https://www.dropbox.com/s/6ib5apnv22u39xu/sport_6_1.webp?dl=0, https://www.dropbox.com/s/aq2afcavhu0i58v/sport_6_2.webp?dl=0, https://www.dropbox.com/s/kx28854vhd4hiw7/sport_6_3.webp?dl=0",
                            "price":  "free",
-                           "top_icon_color":  "#FFFFFF",
+                           "top_icon_color":  "#B116BC",
                            "text_123_color":  "#FFFFFF"
                        },
                        {
@@ -4364,7 +4364,7 @@
                            "url":  "https://www.dropbox.com/s/i2h0dsjl4kvnfe4/sport_7.zip?dl=0",
                            "preview":  "https://www.dropbox.com/s/jf5vj17vmtxwtnf/sport_7_1.webp?dl=0, https://www.dropbox.com/s/y3jhnps8c2hgn4i/sport_7_2.webp?dl=0, https://www.dropbox.com/s/wqddw0pdg32hpip/sport_7_3.webp?dl=0",
                            "price":  "free",
-                           "top_icon_color":  "#FFFFFF",
+                           "top_icon_color":  "#B64046",
                            "text_123_color":  "#FFFFFF"
                        },
                        {
@@ -4377,7 +4377,7 @@
                            "url":  "https://www.dropbox.com/s/1k1r5adj3rvh6cq/sport_8.zip?dl=0",
                            "preview":  "https://www.dropbox.com/s/wj30vp20s38cvj4/sport_8_1.webp?dl=0, https://www.dropbox.com/s/4nr66k4emgbo98o/sport_8_2.webp?dl=0, https://www.dropbox.com/s/635okeh0xa8aqbf/sport_8_3.webp?dl=0",
                            "price":  "premium",
-                           "top_icon_color":  "#4E4E4E",
+                           "top_icon_color":  "#F6D33C",
                            "text_123_color":  "#4E4E4E"
                        },
                        {
@@ -4403,7 +4403,7 @@
                            "url":  "https://www.dropbox.com/s/kits2shq186voc3/sport_10.zip?dl=0",
                            "preview":  "https://www.dropbox.com/s/59qnfic1qe0n6i3/sport_10_1.webp?dl=0, https://www.dropbox.com/s/lp55fenra43k3ax/sport_10_2.webp?dl=0, https://www.dropbox.com/s/emve21i9y3ws3pi/sport_10_3.webp?dl=0",
                            "price":  "premium",
-                           "top_icon_color":  "#FFFFFF",
+                           "top_icon_color":  "#FF7A5E",
                            "text_123_color":  "#FFFFFF"
                        },
                        {
@@ -4417,7 +4417,7 @@
                            "url":  "https://www.dropbox.com/s/utnr4nbarj4jf93/sport1.zip?dl=0",
                            "preview":  "https://www.dropbox.com/s/ljj8yoi1lnlbyrv/sport1.png?dl=0",
                            "color_text_preview":  "#000000",
-                           "top_icon_color":  "#000000",
+                           "top_icon_color":  "#FFFFFF",
                            "text_123_color":  "#000000"
                        },
                        {
@@ -4430,9 +4430,9 @@
                                      ],
                            "url":  "https://www.dropbox.com/s/9zvs1e46hevn052/sport2.zip?dl=0",
                            "preview":  "https://www.dropbox.com/s/vm42eiyko1f1lb1/sport2.png?dl=0",
-                           "color_text_preview":  "#000000",
-                           "top_icon_color":  "#000000",
-                           "text_123_color":  "#000000"
+                           "color_text_preview":  "#FFFFFF",
+                           "top_icon_color":  "#FFFFFF",
+                           "text_123_color":  "#FFFFFF"
                        },
                        {
                            "id":  18003,
@@ -4444,9 +4444,9 @@
                                      ],
                            "url":  "https://www.dropbox.com/s/kq1fol7cerdhb40/sport3.zip?dl=0",
                            "preview":  "https://www.dropbox.com/s/27obo6vjlutc8u6/sport3.png?dl=0",
-                           "color_text_preview":  "#000000",
-                           "top_icon_color":  "#000000",
-                           "text_123_color":  "#000000"
+                           "color_text_preview":  "#FFFFFF",
+                           "top_icon_color":  "#FFFFFF",
+                           "text_123_color":  "#FFFFFF"
                        },
                        {
                            "id":  18004,
@@ -4458,9 +4458,9 @@
                                      ],
                            "url":  "https://www.dropbox.com/s/4n0fof425aruja4/sport4.zip?dl=0",
                            "preview":  "https://www.dropbox.com/s/dxfyn3ep0k0gb0w/sport4.png?dl=0",
-                           "color_text_preview":  "#000000",
-                           "top_icon_color":  "#000000",
-                           "text_123_color":  "#000000"
+                           "color_text_preview":  "#FFFFFF",
+                           "top_icon_color":  "#FFFFFF",
+                           "text_123_color":  "#FFFFFF"
                        },
                        {
                            "id":  18005,
@@ -4472,9 +4472,9 @@
                                      ],
                            "url":  "https://www.dropbox.com/s/h5xoxefkkc8a1kt/sport5.zip?dl=0",
                            "preview":  "https://www.dropbox.com/s/rqip7x4fj8z5gdv/sport5.png?dl=0",
-                           "color_text_preview":  "#000000",
-                           "top_icon_color":  "#000000",
-                           "text_123_color":  "#000000"
+                           "color_text_preview":  "#FFFFFF",
+                           "top_icon_color":  "#FFFFFF",
+                           "text_123_color":  "#FFFFFF"
                        }
                    ]
     },
@@ -4492,7 +4492,7 @@
                            "preview":  "https://www.dropbox.com/s/i903mw289mwm807/cat_13_1.webp?dl=0, https://www.dropbox.com/s/evmxjgkjio166z1/cat_13_2.webp?dl=0, https://www.dropbox.com/s/geqxt8l8uc9lby6/cat_13_3.webp?dl=0",
                            "price":  "premium",
                            "color_text_preview":  "#FFFFFF",
-                           "top_icon_color":  "#FFFFFF",
+                           "top_icon_color":  "#C38A69",
                            "text_123_color":  "#FFFFFF"
                        },
                        {
@@ -4505,9 +4505,9 @@
                            "url":  "https://www.dropbox.com/s/6sbt0ygnjw7ratk/cat_14.zip?dl=0",
                            "preview":  "https://www.dropbox.com/s/k8bq5x5z0hlh4al/cat_14_1.webp?dl=0, https://www.dropbox.com/s/yvac8yjev3fupzb/cat_14_2.webp?dl=0, https://www.dropbox.com/s/h2witznuxkzuld7/cat_14_3.webp?dl=0",
                            "price":  "free",
-                           "color_text_preview":  "#FFFFFF",
-                           "top_icon_color":  "#FFFFFF",
-                           "text_123_color":  "#FFFFFF"
+                           "color_text_preview":  "#17706A",
+                           "top_icon_color":  "#17706A",
+                           "text_123_color":  "#17706A"
                        },
                        {
                            "id":  20015,
@@ -4519,9 +4519,9 @@
                            "url":  "https://www.dropbox.com/s/fiuq7bppj0oj5tx/cat_15.zip?dl=0",
                            "preview":  "https://www.dropbox.com/s/pqoezvtfq3q16tj/cat_15_1.webp?dl=0, https://www.dropbox.com/s/nttgdffap1hy773/cat_15_2.webp?dl=0, https://www.dropbox.com/s/jrx0id43t9jodzh/cat_15_3.webp?dl=0",
                            "price":  "premium",
-                           "color_text_preview":  "#FFFFFF",
-                           "top_icon_color":  "#FFFFFF",
-                           "text_123_color":  "#FFFFFF"
+                           "color_text_preview":  "#FCC25C",
+                           "top_icon_color":  "#FCC25C",
+                           "text_123_color":  "#FCC25C"
                        },
                        {
                            "id":  20016,
@@ -4534,7 +4534,7 @@
                            "preview":  "https://www.dropbox.com/s/atl636jxbmvykml/cat_16_1.webp?dl=0, https://www.dropbox.com/s/0l9x6j2v91bau3e/cat_16_2.webp?dl=0, https://www.dropbox.com/s/cbxu9iw24wp9xrv/cat_16_3.webp?dl=0",
                            "price":  "premium",
                            "color_text_preview":  "#FFFFFF",
-                           "top_icon_color":  "#FFFFFF",
+                           "top_icon_color":  "#F4906D",
                            "text_123_color":  "#FFFFFF"
                        },
                        {
@@ -4556,13 +4556,13 @@
                            "name":  "cat_8",
                            "font":  "Lemonada.ttf",
                            "color":  [
-                                         "#FE4E7B"
+                                         "#FFFFFF"
                                      ],
                            "url":  "https://www.dropbox.com/s/y9srn2f2kwwhhfe/cat_8.zip?dl=0",
                            "preview":  "https://www.dropbox.com/s/k1hrdktix8s9n69/cat_8_1.webp?dl=0, https://www.dropbox.com/s/75jez1w7ohgeryz/cat_8_2.webp?dl=0, https://www.dropbox.com/s/m4lmzid6ghq4lwv/cat_8_3.webp?dl=0",
                            "price":  "premium",
-                           "top_icon_color":  "#FE4E7B",
-                           "text_123_color":  "#FE4E7B"
+                           "top_icon_color":  "#FFFFFF",
+                           "text_123_color":  "#FFFFFF"
                        },
                        {
                            "id":  "20009",
@@ -4589,20 +4589,7 @@
                            "price":  "premium",
                            "top_icon_color":  "#B77678",
                            "text_123_color":  "#B77678"
-                       },
-                       {
-                           "id":  "20011",
-                           "name":  "cat_11",
-                           "font":  "Podkova.ttf",
-                           "color":  [
-                                         "#9F3734"
-                                     ],
-                           "url":  "https://www.dropbox.com/s/19nrtcg2qok6fqu/cat_11.zip?dl=0",
-                           "preview":  "https://www.dropbox.com/s/ez2rh472ratf8rs/cat_11_1.webp?dl=0, https://www.dropbox.com/s/edytdc4qegffnuh/cat_11_2.webp?dl=0, https://www.dropbox.com/s/iysrjz05rc2it8d/cat_11_3.webp?dl=0",
-                           "price":  "premium",
-                           "top_icon_color":  "#9F3734",
-                           "text_123_color":  "#9F3734"
-                       },
+                       }    ,
                        {
                            "id":  "20012",
                            "name":  "cat_12",
@@ -4628,7 +4615,7 @@
                            "url":  "https://www.dropbox.com/s/pri0yt4pzi2svln/Cat_1.zip?dl=0",
                            "preview":  "https://www.dropbox.com/s/y5dkvpc6oo7e2s6/Cat_1_1.png?dl=0, https://www.dropbox.com/s/og2ur1ytilbmpgy/Cat_1_2.png?dl=0, https://www.dropbox.com/s/og2ur1ytilbmpgy/Cat_1_2.png?dl=0",
                            "color_text_preview":  "#000000",
-                           "top_icon_color":  "#000000",
+                           "top_icon_color":  "#42CCF9",
                            "text_123_color":  "#000000"
                        },
                        {
@@ -4643,7 +4630,7 @@
                            "preview":  "https://www.dropbox.com/s/2mmu9md9a6zvxqn/Cat_2_1.png?dl=0, https://www.dropbox.com/s/y7tu8ds37fjvmws/Cat_2_2.png?dl=0, https://www.dropbox.com/s/3s0h3q1z3ymfr80/Cat_2_3.png?dl=0",
                            "space_text_color":  "#213A7A",
                            "color_text_preview":  "#213A7A",
-                           "top_icon_color":  "#213A7A",
+                           "top_icon_color":  "#DDFF0D",
                            "text_123_color":  "#213A7A"
                        },
                        {
@@ -4662,33 +4649,19 @@
                            "text_123_color":  "#FFE70D"
                        },
                        {
-                           "id":  20004,
-                           "name":  "Cat_4",
-                           "font":  "BalooBhai.ttf",
-                           "price":  "free",
-                           "color":  [
-                                         "#FFFFFF"
-                                     ],
-                           "url":  "https://www.dropbox.com/s/9rrofxx74f33d3v/Cat_4.zip?dl=0",
-                           "preview":  "https://www.dropbox.com/s/olop54mjcrqd8ow/Cat_4_1.png?dl=0, https://www.dropbox.com/s/hmw7h521rf2nb98/Cat_4_2.png?dl=0, https://www.dropbox.com/s/nsqrqp70bxv10wc/Cat_4_3.png?dl=0",
-                           "color_text_preview":  "#B89C89",
-                           "top_icon_color":  "#B89C89",
-                           "text_123_color":  "#B89C89"
-                       },
-                       {
                            "id":  20005,
                            "name":  "Cat_5",
                            "font":  "Sriracha.ttf",
                            "price":  "free",
                            "color":  [
-                                         "##FFFFFF"
+                                         "#FFFFFF"
                                      ],
                            "url":  "https://www.dropbox.com/s/jmy2h1x6ygc7ys1/Cat_5.zip?dl=0",
                            "preview":  "https://www.dropbox.com/s/1dl02xxa9a1wctg/Cat_5_1.png?dl=0, https://www.dropbox.com/s/w0f0fy54jza17gr/Cat_5_2.png?dl=0, https://www.dropbox.com/s/gskotgtmi2dgmkn/Cat_5_3.png?dl=0",
                            "space_text_color":  "#6F6F6F",
                            "color_text_preview":  "#FFFFFF",
                            "top_icon_color":  "#FFFFFF",
-                           "text_123_color":  "#FFFFFF"
+                           "text_123_color":  "#84848B"
                        },
                        {
                            "id":  20006,
@@ -4702,7 +4675,7 @@
                            "preview":  "https://www.dropbox.com/s/p9l2wp4awgf0o24/Cat_6_1.png?dl=0, https://www.dropbox.com/s/oulz5srw3w806ta/Cat_6_2.png?dl=0, https://www.dropbox.com/s/jw5r5z9rmh1pzdk/Cat_6_3.png?dl=0",
                            "space_text_color":  "#000000",
                            "color_text_preview":  "#000000",
-                           "top_icon_color":  "#000000",
+                           "top_icon_color":  "#79021E",
                            "text_123_color":  "#000000"
                        },
                        {
@@ -4730,25 +4703,10 @@
                            "url":  "https://www.dropbox.com/s/sf2hf6rw9md5vyn/dog_7.zip?dl=0",
                            "preview":  "https://www.dropbox.com/s/cji4vkxxmtv4gm4/dog_7_1.webp?dl=0, https://www.dropbox.com/s/2c7fuevcw1vvn5f/dog_7_2.webp?dl=0, https://www.dropbox.com/s/hofnjnzxsn9fxsb/dog_7_3.webp?dl=0",
                            "price":  "free",
-                           "color_text_preview":  "#FFFFFF",
+                           "color_text_preview":  "#FF5F69",
                            "space_text_color":  "#00000000",
-                           "top_icon_color":  "#FFFFFF",
-                           "text_123_color":  "#FFFFFF"
-                       },
-                       {
-                           "id":  21008,
-                           "name":  "dog_8",
-                           "font":  "ShortStack-Regular.ttf",
-                           "color":  [
-                                         "#000000"
-                                     ],
-                           "url":  "https://www.dropbox.com/s/strk4vlpgbrsp6j/dog_8.zip?dl=0",
-                           "preview":  "https://www.dropbox.com/s/98b16fc9xe4ddpp/dog_8_1.webp?dl=0, https://www.dropbox.com/s/6ln1s73ze6fjuvl/dog_8_2.webp?dl=0, https://www.dropbox.com/s/guzu9coenjsxl8j/dog_8_3.webp?dl=0",
-                           "price":  "free",
-                           "color_text_preview":  "#000000",
-                           "space_text_color":  "#00000000",
-                           "top_icon_color":  "#000000",
-                           "text_123_color":  "#000000"
+                           "top_icon_color":  "#FF5F69",
+                           "text_123_color":  "#FF5F69"
                        },
                        {
                            "id":  21009,
@@ -4762,8 +4720,8 @@
                            "price":  "free",
                            "color_text_preview":  "#FFFFFF",
                            "space_text_color":  "#6A3B34",
-                           "top_icon_color":  "#FFFFFF",
-                           "text_123_color":  "#FFFFFF"
+                           "top_icon_color":  "#6A3B34",
+                           "text_123_color":  "#6A3B34"
                        },
                        {
                            "id":  21010,
@@ -4775,10 +4733,10 @@
                            "url":  "https://www.dropbox.com/s/p1sn9ulcqh3b3e8/dog_10.zip?dl=0",
                            "preview":  "https://www.dropbox.com/s/99x0zc93bf2ghns/dog_10_1.webp?dl=0, https://www.dropbox.com/s/8hdbe7ngjvktpyv/dog_10_2.webp?dl=0, https://www.dropbox.com/s/56z4e4liic37rqp/dog_10_3.webp?dl=0",
                            "price":  "premium",
-                           "color_text_preview":  "#FFFFFF",
+                           "color_text_preview":  "#000000",
                            "space_text_color":  "#00000000",
-                           "top_icon_color":  "#FFFFFF",
-                           "text_123_color":  "#FFFFFF"
+                           "top_icon_color":  "#000000",
+                           "text_123_color":  "#000000"
                        },
                        {
                            "id":  21011,
@@ -4822,8 +4780,8 @@
                            "preview":  "https://www.dropbox.com/s/djznks800ojed9v/Dog_1_1.png?dl=0, https://www.dropbox.com/s/ssvjdvkgl5maumz/Dog_1_2.png?dl=0, https://www.dropbox.com/s/7elqk54b52vramq/Dog_1_3.png?dl=0",
                            "space_text_color":  "#ffffff",
                            "color_text_preview":  "#000000",
-                           "top_icon_color":  "#000000",
-                           "text_123_color":  "#000000"
+                           "top_icon_color":  "#ffffff",
+                           "text_123_color":  "#ffffff"
                        },
                        {
                            "id":  21002,
@@ -4853,7 +4811,7 @@
                            "type_key":  "circle",
                            "color_text_preview":  "#000000",
                            "top_icon_color":  "#000000",
-                           "text_123_color":  "#000000"
+                           "text_123_color":  "#FFFFFF"
                        },
                        {
                            "id":  21004,
@@ -4882,7 +4840,7 @@
                            "preview":  "https://www.dropbox.com/s/l5lao4x9fqne2rd/Dog_5_1.png?dl=0, https://www.dropbox.com/s/7vb6j6j115pg2lr/Dog_5_2.png?dl=0, https://www.dropbox.com/s/q45g3d9oy1832no/Dog_5_3.png?dl=0",
                            "space_text_color":  "#FFFFFF",
                            "color_text_preview":  "#FFFFFF",
-                           "top_icon_color":  "#FFFFFF",
+                           "top_icon_color":  "#55EBFF",
                            "text_123_color":  "#FFFFFF"
                        },
                        {
@@ -4897,7 +4855,7 @@
                            "preview":  "https://www.dropbox.com/s/5a2bkmbbcu9ywlm/Dog_6_1.png?dl=0, https://www.dropbox.com/s/fulnclogmawk0bx/Dog_6_2.png?dl=0, https://www.dropbox.com/s/oln7mlzuslvwxb9/Dog_6_3.png?dl=0",
                            "space_text_color":  "#FFFFFF",
                            "color_text_preview":  "#FFFFFF",
-                           "top_icon_color":  "#FFFFFF",
+                           "top_icon_color":  "#000000",
                            "text_123_color":  "#FFFFFF"
                        }
                    ]
@@ -4931,7 +4889,7 @@
                            "price":  "premium",
                            "color_text_preview":  "#FFFFFF",
                            "space_text_color":  "#00000000",
-                           "top_icon_color":  "#FFFFFF",
+                           "top_icon_color":  "#B30A01",
                            "text_123_color":  "#FFFFFF"
                        },
                        {
@@ -4944,10 +4902,10 @@
                            "url":  "https://www.dropbox.com/s/1md2zp2fb9yyd7l/christmas_8.zip?dl=0",
                            "preview":  "https://www.dropbox.com/s/nbzofg5etpg8r3j/christmas_8_1.webp?dl=0, https://www.dropbox.com/s/0hjkji473jfj114/christmas_8_2.webp?dl=0, https://www.dropbox.com/s/cw5bm39rb16esoa/christmas_8_3.webp?dl=0",
                            "price":  "free",
-                           "color_text_preview":  "#000000",
+                           "color_text_preview":  "#FFFFFF",
                            "space_text_color":  "#00000000",
-                           "top_icon_color":  "#000000",
-                           "text_123_color":  "#000000"
+                           "top_icon_color":  "#FFFFFF",
+                           "text_123_color":  "#FFFFFF"
                        },
                        {
                            "id":  31009,
@@ -4958,20 +4916,6 @@
                                      ],
                            "url":  "https://www.dropbox.com/s/b24g9e0qd54554b/christmas_9.zip?dl=0",
                            "preview":  "https://www.dropbox.com/s/firt15s8zookilc/christmas_9_1.webp?dl=0, https://www.dropbox.com/s/jarhmrmcfemq8qp/christmas_9_2.webp?dl=0, https://www.dropbox.com/s/tu7cgulsfdy9xfr/christmas_9_3.webp?dl=0",
-                           "price":  "premium",
-                           "color_text_preview":  "#FFFFFF",
-                           "top_icon_color":  "#FFFFFF",
-                           "text_123_color":  "#FFFFFF"
-                       },
-                       {
-                           "id":  14010,
-                           "name":  "christmas_10",
-                           "font":  "OldStandardTT-Bold.ttf",
-                           "color":  [
-                                         "#FFFFFF"
-                                     ],
-                           "url":  "https://www.dropbox.com/s/fbwif1ytcfuifl6/christmas_10.zip?dl=0",
-                           "preview":  "https://www.dropbox.com/s/ssbjy7ovy3h56hk/christmas_10_1.webp?dl=0, https://www.dropbox.com/s/rg3kioof38hgby2/christmas_10_2.webp?dl=0, https://www.dropbox.com/s/ub2c6i024rhvmlm/christmas_10_3.webp?dl=0",
                            "price":  "premium",
                            "color_text_preview":  "#FFFFFF",
                            "top_icon_color":  "#FFFFFF",
@@ -4989,7 +4933,7 @@
                            "price":  "premium",
                            "color_text_preview":  "#021A0D",
                            "space_text_color":  "#021A0D",
-                           "top_icon_color":  "#021A0D",
+                           "top_icon_color":  "#FFFFFF",
                            "text_123_color":  "#021A0D"
                        },
                        {
@@ -5005,7 +4949,7 @@
                            "color_text_preview":  "#F5D581",
                            "space_text_color":  "#FFFFFF",
                            "top_icon_color":  "#F5D581",
-                           "text_123_color":  "#F5D581"
+                           "text_123_color":  "#FFFFFF"
                        },
                        {
                            "id":  31013,
@@ -5019,7 +4963,7 @@
                            "price":  "premium",
                            "color_text_preview":  "#C16639",
                            "space_text_color":  "#C16639",
-                           "top_icon_color":  "#C16639",
+                           "top_icon_color":  "#FFFFFF",
                            "text_123_color":  "#C16639"
                        },
                        {
@@ -5033,21 +4977,7 @@
                            "preview":  "https://www.dropbox.com/s/a5h9gxsn1ixiu27/christmas_14_1.webp?dl=0, https://www.dropbox.com/s/lah0il4mg1oaff3/christmas_14_2.webp?dl=0, https://www.dropbox.com/s/dhtrjb5rwf57r6s/christmas_14_3.webp?dl=0",
                            "price":  "free",
                            "color_text_preview":  "#FFFFFF",
-                           "top_icon_color":  "#FFFFFF",
-                           "text_123_color":  "#FFFFFF"
-                       },
-                       {
-                           "id":  31015,
-                           "name":  "christmas_15",
-                           "font":  "Pridi-Regular.ttf",
-                           "color":  [
-                                         "#FFFFFF"
-                                     ],
-                           "url":  "https://www.dropbox.com/s/sq6fnih4ijkm1ln/christmas_15.zip?dl=0",
-                           "preview":  "https://www.dropbox.com/s/j7kw00evbd02j5f/christmas_15_1.webp?dl=0, https://www.dropbox.com/s/h2d9k68qneh33fh/christmas_15_2.webp?dl=0, https://www.dropbox.com/s/nh484aum0jclwcz/christmas_15_3.webp?dl=0",
-                           "price":  "premium",
-                           "color_text_preview":  "#FFFFFF",
-                           "top_icon_color":  "#FFFFFF",
+                           "top_icon_color":  "#7F281B",
                            "text_123_color":  "#FFFFFF"
                        },
                        {
@@ -5061,7 +4991,7 @@
                            "preview":  "https://www.dropbox.com/s/xvw0kuhbrjbburc/christmas_16_1.webp?dl=0, https://www.dropbox.com/s/gjxxozift1o7cui/christmas_16_2.webp?dl=0, https://www.dropbox.com/s/tk9h8jk3nbhauvp/christmas_16_3.webp?dl=0",
                            "price":  "premium",
                            "color_text_preview":  "#FFFFFF",
-                           "top_icon_color":  "#FFFFFF",
+                           "top_icon_color":  "#A7403A",
                            "text_123_color":  "#FFFFFF"
                        },
                        {
@@ -5075,7 +5005,7 @@
                            "preview":  "https://www.dropbox.com/s/mskvsdogr4fxkbi/christmas_17_1.webp?dl=0, https://www.dropbox.com/s/njmma4u2y9pebic/christmas_17_2.webp?dl=0, https://www.dropbox.com/s/v2xystp7u3n4p2r/christmas_17_3.webp?dl=0",
                            "price":  "premium",
                            "color_text_preview":  "#BE051B",
-                           "top_icon_color":  "#BE051B",
+                           "top_icon_color":  "#FFFFFF",
                            "text_123_color":  "#BE051B"
                        },
                        {
@@ -5147,7 +5077,7 @@
                            "color_text_preview":  "#FFFFFF",
                            "space_text_color":  "#A31217",
                            "top_icon_color":  "#FFFFFF",
-                           "text_123_color":  "#FFFFFF"
+                           "text_123_color":  "#A21219"
                        },
                        {
                            "id":  31023,
@@ -5162,7 +5092,7 @@
                            "color_text_preview":  "#FFFFFF",
                            "space_text_color":  "#D64050",
                            "top_icon_color":  "#FFFFFF",
-                           "text_123_color":  "#FFFFFF"
+                           "text_123_color":  "#A21219"
                        },
                        {
                            "id":  31024,
@@ -5176,7 +5106,7 @@
                            "price":  "premium",
                            "color_text_preview":  "#FFFFFF",
                            "top_icon_color":  "#FFFFFF",
-                           "text_123_color":  "#FFFFFF"
+                           "text_123_color":  "#A5C2D1"
                        },
                        {
                            "id":  31025,
@@ -5191,7 +5121,7 @@
                            "color_text_preview":  "#2D5E64",
                            "dot_text_color":  "#2D5E64",
                            "space_text_color":  "#2D5E64",
-                           "top_icon_color":  "#2D5E64",
+                           "top_icon_color":  "#FFFFFF",
                            "text_123_color":  "#2D5E64"
                        },
                        {
@@ -5218,10 +5148,10 @@
                            "url":  "https://www.dropbox.com/s/hsag41tyt34yukf/christmas_27.zip?dl=0",
                            "preview":  "https://www.dropbox.com/s/q6iptit7zgzug54/christmas_27_1.webp?dl=0, https://www.dropbox.com/s/z9ttqnwxwo6xc94/christmas_27_2.webp?dl=0, https://www.dropbox.com/s/ax7sshe0j1kk2u8/christmas_27_3.webp?dl=0",
                            "price":  "free",
-                           "color_text_preview":  "#EB4838",
+                           "color_text_preview":  "#FFFFFF",
                            "dot_text_color":  "#EB4838",
-                           "top_icon_color":  "#EB4838",
-                           "text_123_color":  "#EB4838"
+                           "top_icon_color":  "#FFFFFF",
+                           "text_123_color":  "#FFFFFF"
                        },
                        {
                            "id":  31028,
@@ -5235,7 +5165,7 @@
                            "price":  "premium",
                            "color_text_preview":  "#277264",
                            "space_text_color":  "#277264",
-                           "top_icon_color":  "#277264",
+                           "top_icon_color":  "#FFFFFF",
                            "text_123_color":  "#277264"
                        },
                        {
@@ -5269,7 +5199,7 @@
                            "preview":  "https://www.dropbox.com/s/azyo2tol2uwwmgx/thankgiving_1_1.webp?dl=0, https://www.dropbox.com/s/vfmvmh4lp63gkao/thankgiving_1_2.webp?dl=0, https://www.dropbox.com/s/kpqrf6cg76ku6gb/thankgiving_1_3.webp?dl=0",
                            "price":  "premium",
                            "color_text_preview":  "#FFFFFF",
-                           "top_icon_color":  "#FFFFFF",
+                           "top_icon_color":  "#D96A3D",
                            "text_123_color":  "#FFFFFF"
                        },
                        {
@@ -5324,22 +5254,8 @@
                            "url":  "https://www.dropbox.com/s/pp99os6bhijxjai/thankgiving_5.zip?dl=0",
                            "preview":  "https://www.dropbox.com/s/6liw4frim8pdtr3/thankgiving_5_1.webp?dl=0, https://www.dropbox.com/s/xdkpkkqains4996/thankgiving_5_2.webp?dl=0, https://www.dropbox.com/s/91t9qius68qhhv8/thankgiving_5_3.webp?dl=0",
                            "price":  "premium",
-                           "color_text_preview":  "#FFFFFF",
-                           "top_icon_color":  "#FFFFFF",
-                           "text_123_color":  "#FFFFFF"
-                       },
-                       {
-                           "id":  31006,
-                           "name":  "thankgiving_6",
-                           "font":  "Oldenburg-Regular.ttf",
-                           "color":  [
-                                         "#FFFFFF"
-                                     ],
-                           "url":  "https://www.dropbox.com/s/oj0zib9h2pzmx2y/thankgiving_6.zip?dl=0",
-                           "preview":  "https://www.dropbox.com/s/p2wlbc2zs06e9t2/thankgiving_6_1.webp?dl=0, https://www.dropbox.com/s/8r8usfxkzo4bc4u/thankgiving_6_2.webp?dl=0, https://www.dropbox.com/s/2iduh3d6t997pkz/thankgiving_6_3.webp?dl=0",
-                           "price":  "free",
-                           "color_text_preview":  "#FFFFFF",
-                           "top_icon_color":  "#FFFFFF",
+                           "color_text_preview":  "#DF5133",
+                           "top_icon_color":  "#DF5133",
                            "text_123_color":  "#FFFFFF"
                        }
                    ]
@@ -5357,8 +5273,8 @@
                            "url":  "https://www.dropbox.com/s/sbuzqkn52ekwxva/hpny_11.zip?dl=0",
                            "preview":  "https://www.dropbox.com/s/od9zh02f1mv8f06/hpny_11_1.webp?dl=0, https://www.dropbox.com/s/t48v77pgfyoi2ft/hpny_11_2.webp?dl=0, https://www.dropbox.com/s/s37y70psjwdtmml/hpny_11_3.webp?dl=0",
                            "price":  "free",
-                           "color_text_preview":  "#C9AE50",
-                           "top_icon_color":  "#C9AE50",
+                           "color_text_preview":  "#FFFFFF",
+                           "top_icon_color":  "#FFFFFF",
                            "text_123_color":  "#C9AE50"
                        },
                        {
@@ -5371,24 +5287,9 @@
                            "url":  "https://www.dropbox.com/s/68onwp7kx5dx01n/hpny_12.zip?dl=0",
                            "preview":  "https://www.dropbox.com/s/nduiw5oa3xbpgeb/hpny_12_1.webp?dl=0, https://www.dropbox.com/s/8a40yrtww40ec1c/hpny_12_2.webp?dl=0, https://www.dropbox.com/s/l3t8d1miib5259z/hpny_12_3.webp?dl=0",
                            "price":  "free",
-                           "color_text_preview":  "#C9AE50",
-                           "top_icon_color":  "#C9AE50",
-                           "text_123_color":  "#C9AE50"
-                       },
-                       {
-                           "id":  14013,
-                           "name":  "hpny_13",
-                           "font":  "NoticiaText-Bold.ttf",
-                           "color":  [
-                                         "#FFFFFF"
-                                     ],
-                           "url":  "https://www.dropbox.com/s/hgaqlzsp0jh2xll/hpny_13.zip?dl=0",
-                           "preview":  "https://www.dropbox.com/s/538fxme53r69lc7/hpny_13_1.webp?dl=0, https://www.dropbox.com/s/plcd0uuwdo0cm9u/hpny_13_2.webp?dl=0, https://www.dropbox.com/s/5cvprs510m51nsp/hpny_13_3.webp?dl=0",
-                           "price":  "premium",
                            "color_text_preview":  "#FFFFFF",
-                           "space_text_color":  "#FFFFFF",
                            "top_icon_color":  "#FFFFFF",
-                           "text_123_color":  "#FFFFFF"
+                           "text_123_color":  "#C9AE50"
                        },
                        {
                            "id":  14014,
@@ -5401,7 +5302,7 @@
                            "preview":  "https://www.dropbox.com/s/urnnd3l6cria07d/hpny_14_1.webp?dl=0, https://www.dropbox.com/s/56sd9nghyfgmc1r/hpny_14_2.webp?dl=0, https://www.dropbox.com/s/szso1uhm5ro70aa/hpny_14_3.webp?dl=0",
                            "price":  "free",
                            "color_text_preview":  "#FFFFFF",
-                           "top_icon_color":  "#FFFFFF",
+                           "top_icon_color":  "#F9A11E",
                            "text_123_color":  "#FFFFFF"
                        },
                        {
@@ -5428,9 +5329,9 @@
                            "url":  "https://www.dropbox.com/s/igu3ol6kisdy3ay/hpny_16.zip?dl=0",
                            "preview":  "https://www.dropbox.com/s/ouh32p0mfl7r916/hpny_16_1.webp?dl=0, https://www.dropbox.com/s/ycet1qmj2oe3utd/hpny_16_2.webp?dl=0, https://www.dropbox.com/s/sn6zdc76dfjsy0o/hpny_16_3.webp?dl=0",
                            "price":  "premium",
-                           "color_text_preview":  "#000000",
-                           "top_icon_color":  "#000000",
-                           "text_123_color":  "#000000"
+                           "color_text_preview":  "#FFFFFF",
+                           "top_icon_color":  "#FFFFFF",
+                           "text_123_color":  "#FFFFFF"
                        },
                        {
                            "id":  14017,
@@ -5458,7 +5359,7 @@
                            "price":  "free",
                            "dot_text_color":  "#000000",
                            "color_text_preview":  "#000000",
-                           "top_icon_color":  "#000000",
+                           "top_icon_color":  "#FFFFFF",
                            "text_123_color":  "#000000"
                        },
                        {
@@ -5472,7 +5373,7 @@
                            "preview":  "https://www.dropbox.com/s/54y4r31tk2m0mn8/hpny_19_1.webp?dl=0, https://www.dropbox.com/s/1bhw8c87w9jtkrw/hpny_19_2.webp?dl=0, https://www.dropbox.com/s/zoqjkd50hezfwd9/hpny_19_3.webp?dl=0",
                            "price":  "premium",
                            "color_text_preview":  "#FFFFFF",
-                           "top_icon_color":  "#FFFFFF",
+                           "top_icon_color":  "#FBB804",
                            "text_123_color":  "#FFFFFF"
                        },
                        {
@@ -5528,7 +5429,7 @@
                            "preview":  "https://www.dropbox.com/s/ypvkp49ofr6r8ol/christmas_3_1.webp?dl=0, https://www.dropbox.com/s/1bspwy9hz2n0hvl/christmas_3_2.webp?dl=0, https://www.dropbox.com/s/ojqv5tmjgez76jd/christmas_3_3.webp?dl=0",
                            "price":  "premium",
                            "color_text_preview":  "#FFFFFF",
-                           "top_icon_color":  "#FFFFFF",
+                           "top_icon_color":  "#E03B3D",
                            "text_123_color":  "#FFFFFF"
                        },
                        {
@@ -5542,21 +5443,7 @@
                            "preview":  "https://www.dropbox.com/s/b7aa3rt8xiaei13/christmas_4_1.webp?dl=0, https://www.dropbox.com/s/0jpglfijtbzv7sn/christmas_4_2.webp?dl=0, https://www.dropbox.com/s/sxn0zb973a29mpe/christmas_4_3.webp?dl=0",
                            "price":  "free",
                            "color_text_preview":  "#FFFFFF",
-                           "top_icon_color":  "#FFFFFF",
-                           "text_123_color":  "#FFFFFF"
-                       },
-                       {
-                           "id":  14010,
-                           "name":  "christmas_5",
-                           "font":  "Overlock-Bold.ttf",
-                           "color":  [
-                                         "#FFFFFF"
-                                     ],
-                           "url":  "https://www.dropbox.com/s/h7xo8el5098ybfq/christmas_5.zip?dl=0",
-                           "preview":  "https://www.dropbox.com/s/yybu3rnczauuanl/christmas_5_1.webp?dl=0, https://www.dropbox.com/s/80i6nxc6cpfow6h/christmas_5_2.webp?dl=0, https://www.dropbox.com/s/1kpuxogr1bm3g3g/christmas_5_3.webp?dl=0",
-                           "price":  "free",
-                           "color_text_preview":  "#FFFFFF",
-                           "top_icon_color":  "#FFFFFF",
+                           "top_icon_color":  "#006082",
                            "text_123_color":  "#FFFFFF"
                        },
                        {
@@ -5570,7 +5457,7 @@
                            "url":  "https://www.dropbox.com/s/r6qrivc5y2dkq99/hpny_1.zip?dl=0",
                            "preview":  "https://www.dropbox.com/s/12aa0ozlmeowk4y/hpny_1.png?dl=0",
                            "color_text_preview":  "#000000",
-                           "top_icon_color":  "#000000",
+                           "top_icon_color":  "#E0C26A",
                            "text_123_color":  "#000000"
                        },
                        {
@@ -5584,7 +5471,7 @@
                            "url":  "https://www.dropbox.com/s/fk1wkeefste31bq/hpny_2.zip?dl=0",
                            "preview":  "https://www.dropbox.com/s/2j42qbdhyc2rp0f/hpny_2.png?dl=0",
                            "color_text_preview":  "#000000",
-                           "top_icon_color":  "#000000",
+                           "top_icon_color":  "#FFE605",
                            "text_123_color":  "#000000"
                        },
                        {
@@ -5599,7 +5486,7 @@
                            "preview":  "https://www.dropbox.com/s/eoxyrhgqkex850i/hpny_3.png?dl=0",
                            "color_text_preview":  "#FFE605",
                            "top_icon_color":  "#FFE605",
-                           "text_123_color":  "#FFE605"
+                           "text_123_color":  "#0E3458"
                        },
                        {
                            "id":  14004,
@@ -5758,7 +5645,7 @@
                            "preview":  "https://www.dropbox.com/s/y2oeae6faakcgkg/random_14_1.webp?dl=0, https://www.dropbox.com/s/4thjercjwkrfh2a/random_14_2.webp?dl=0, https://www.dropbox.com/s/c94tv44bhhps2r2/random_14_3.webp?dl=0",
                            "price":  "premium",
                            "color_text_preview":  "#FFFFFF",
-                           "top_icon_color":  "#FFFFFF",
+                           "top_icon_color":  "#6E87DF",
                            "text_123_color":  "#FFFFFF"
                        },
                        {
@@ -5772,7 +5659,7 @@
                            "preview":  "https://www.dropbox.com/s/zwihodjaco6133l/random_15_1.webp?dl=0, https://www.dropbox.com/s/uxbc9q6snchc7y6/random_15_2.webp?dl=0, https://www.dropbox.com/s/8biorzjk9pqjl95/random_15_3.webp?dl=0",
                            "price":  "premium",
                            "color_text_preview":  "#FFFFFF",
-                           "top_icon_color":  "#FFFFFF",
+                           "top_icon_color":  "#A24824",
                            "text_123_color":  "#FFFFFF"
                        },
                        {
@@ -5788,8 +5675,8 @@
                            "color_text_preview":  "#000000",
                            "dot_text_color":  "#FF4D00",
                            "space_text_color":  "#000000",
-                           "top_icon_color":  "#000000",
-                           "text_123_color":  "#000000"
+                           "top_icon_color":  "#FFFFFF",
+                           "text_123_color":  "#D84D10"
                        },
                        {
                            "id":  28002,
@@ -5802,7 +5689,7 @@
                            "preview":  "https://www.dropbox.com/s/vhi1hszegk7a6c1/tree_2_1.webp?dl=0, https://www.dropbox.com/s/ppyx9u7ktzh29oc/tree_2_2.webp?dl=0, https://www.dropbox.com/s/xts3sf5zjo9uuga/tree_2_3.webp?dl=0",
                            "price":  "free",
                            "color_text_preview":  "#FEF681",
-                           "top_icon_color":  "#FEF681",
+                           "top_icon_color":  "#2C5E1C",
                            "text_123_color":  "#FEF681"
                        },
                        {
@@ -5816,8 +5703,8 @@
                            "preview":  "https://www.dropbox.com/s/x37e9p8gwxsru04/tree_3_1.webp?dl=0, https://www.dropbox.com/s/2aocxttpb3uftil/tree_3_2.webp?dl=0, https://www.dropbox.com/s/6apksa92qtia54c/tree_3_3.webp?dl=0",
                            "price":  "free",
                            "color_text_preview":  "#215816",
-                           "top_icon_color":  "#215816",
-                           "text_123_color":  "#215816"
+                           "top_icon_color":  "#FFFFFF",
+                           "text_123_color":  "#DDE46A"
                        },
                        {
                            "id":  28004,
@@ -5830,7 +5717,7 @@
                            "preview":  "https://www.dropbox.com/s/arexjvro9s0djrx/tree_4_1.webp?dl=0, https://www.dropbox.com/s/ksj2d7ybv1gdpo6/tree_4_2.webp?dl=0, https://www.dropbox.com/s/oyr716zrik5nqe8/tree_4_3.webp?dl=0",
                            "price":  "premium",
                            "color_text_preview":  "#7B3514",
-                           "top_icon_color":  "#7B3514",
+                           "top_icon_color":  "#FFFFFF",
                            "text_123_color":  "#7B3514"
                        },
                        {
@@ -5888,8 +5775,8 @@
                            "color_text_preview":  "#213D03",
                            "space_text_color":  "#213D03",
                            "dot_text_color":  "#75BF0D",
-                           "top_icon_color":  "#213D03",
-                           "text_123_color":  "#213D03"
+                           "top_icon_color":  "#FFFFFF",
+                           "text_123_color":  "#75BF0D"
                        },
                        {
                            "id":  28009,
@@ -5904,7 +5791,7 @@
                            "color_text_preview":  "#FFFFFF",
                            "dot_text_color":  "#356618",
                            "top_icon_color":  "#FFFFFF",
-                           "text_123_color":  "#FFFFFF"
+                           "text_123_color":  "#356618"
                        },
                        {
                            "id":  28010,
@@ -5917,8 +5804,8 @@
                            "preview":  "https://www.dropbox.com/s/pio8hhd60ibxih9/tree_10_1.webp?dl=0, https://www.dropbox.com/s/6x7wqbajc5dvpai/tree_10_2.webp?dl=0, https://www.dropbox.com/s/gywvy6hbvw1d6w3/tree_10_3.webp?dl=0",
                            "price":  "premium",
                            "color_text_preview":  "#1E4A0F",
-                           "top_icon_color":  "#1E4A0F",
-                           "text_123_color":  "#1E4A0F"
+                           "top_icon_color":  "#FFFFFF",
+                           "text_123_color":  "#FFFFFF"
                        },
                        {
                            "id":  90001,
@@ -5931,7 +5818,7 @@
                            "preview":  "https://www.dropbox.com/s/9i9ug9zim8utz7e/aquarium-1-1.webp?dl=0, https://www.dropbox.com/s/s2pfl4s91jqouto/aquarium-1-2.webp?dl=0, https://www.dropbox.com/s/5k6tgc4hl71hhme/aquarium-1-3.webp?dl=0",
                            "price":  "premium",
                            "color_text_preview":  "#FFFFFF",
-                           "top_icon_color":  "#FFFFFF",
+                           "top_icon_color":  "#3E8AFD",
                            "text_123_color":  "#FFFFFF"
                        },
                        {
@@ -5945,7 +5832,7 @@
                            "preview":  "https://www.dropbox.com/s/puf7etdnk5p8kky/cheese-1-1.webp?dl=0, https://www.dropbox.com/s/asvryovrtwya1ca/cheese-1-2.webp?dl=0, https://www.dropbox.com/s/gs5yynrcmfhbu11/cheese-1-3.webp?dl=0",
                            "price":  "premium",
                            "color_text_preview":  "#FFFFFF",
-                           "top_icon_color":  "#FFFFFF",
+                           "top_icon_color":  "#B86A5E",
                            "text_123_color":  "#FFFFFF"
                        },
                        {
@@ -5959,7 +5846,7 @@
                            "preview":  "https://www.dropbox.com/s/w8nhbic0hfdp1rd/ice-1-1.webp?dl=0, https://www.dropbox.com/s/yjn252496hwsh3n/ice-1-2.webp?dl=0, https://www.dropbox.com/s/3dbybvrpzudvxz3/ice-1-3.webp?dl=0",
                            "price":  "premium",
                            "color_text_preview":  "#FFFFFF",
-                           "top_icon_color":  "#FFFFFF",
+                           "top_icon_color":  "#2190B5",
                            "text_123_color":  "#FFFFFF"
                        },
                        {
@@ -5987,7 +5874,7 @@
                            "preview":  "https://www.dropbox.com/s/w9volt72ea7da6x/Space-1-1.webp?dl=0, https://www.dropbox.com/s/jsvwpd1pcg3ybgs/Space-1-2.webp?dl=0, https://www.dropbox.com/s/x4i765366nj5zuu/Space-1-3.webp?dl=0",
                            "price":  "premium",
                            "color_text_preview":  "#FFFFFF",
-                           "top_icon_color":  "#FFFFFF",
+                           "top_icon_color":  "#D34144",
                            "text_123_color":  "#FFFFFF"
                        },
                        {
@@ -6001,7 +5888,7 @@
                            "preview":  "https://www.dropbox.com/s/8tma8azp2qc5qyz/water-1-1.webp?dl=0, https://www.dropbox.com/s/vkq6pdeppzxul7h/water-1-2.webp?dl=0, https://www.dropbox.com/s/wrmrk0a8acvey32/water-1-3.webp?dl=0",
                            "price":  "premium",
                            "color_text_preview":  "#FFFFFF",
-                           "top_icon_color":  "#FFFFFF",
+                           "top_icon_color":  "#025AA2",
                            "text_123_color":  "#FFFFFF"
                        },
                        {
@@ -6029,7 +5916,7 @@
                            "preview":  "https://www.dropbox.com/s/y4by8nwiy07ulys/wood-1-1.webp?dl=0, https://www.dropbox.com/s/q0agp3fht81kaq0/wood-1-2.webp?dl=0, https://www.dropbox.com/s/bv7omy7jm54ah3y/wood-1-3.webp?dl=0",
                            "price":  "premium",
                            "color_text_preview":  "#FFFFFF",
-                           "top_icon_color":  "#FFFFFF",
+                           "top_icon_color":  "#FFB800",
                            "text_123_color":  "#FFFFFF"
                        }
                    ]
